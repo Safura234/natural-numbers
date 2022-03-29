@@ -1,0 +1,14 @@
+C:\Users\Spectre\OneDrive\Bureau\home exercises\natural numbers\natural numbers\bin\Debug\netcoreapp3.1\natural numbers.exe
+C:\Users\Spectre\OneDrive\Bureau\home exercises\natural numbers\natural numbers\bin\Debug\netcoreapp3.1\natural numbers.deps.json
+C:\Users\Spectre\OneDrive\Bureau\home exercises\natural numbers\natural numbers\bin\Debug\netcoreapp3.1\natural numbers.runtimeconfig.json
+C:\Users\Spectre\OneDrive\Bureau\home exercises\natural numbers\natural numbers\bin\Debug\netcoreapp3.1\natural numbers.runtimeconfig.dev.json
+C:\Users\Spectre\OneDrive\Bureau\home exercises\natural numbers\natural numbers\bin\Debug\netcoreapp3.1\natural numbers.dll
+C:\Users\Spectre\OneDrive\Bureau\home exercises\natural numbers\natural numbers\bin\Debug\netcoreapp3.1\natural numbers.pdb
+C:\Users\Spectre\OneDrive\Bureau\home exercises\natural numbers\natural numbers\obj\Debug\netcoreapp3.1\natural numbers.csproj.AssemblyReference.cache
+C:\Users\Spectre\OneDrive\Bureau\home exercises\natural numbers\natural numbers\obj\Debug\netcoreapp3.1\natural numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spectre\OneDrive\Bureau\home exercises\natural numbers\natural numbers\obj\Debug\netcoreapp3.1\natural numbers.AssemblyInfoInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\home exercises\natural numbers\natural numbers\obj\Debug\netcoreapp3.1\natural numbers.AssemblyInfo.cs
+C:\Users\Spectre\OneDrive\Bureau\home exercises\natural numbers\natural numbers\obj\Debug\netcoreapp3.1\natural numbers.csproj.CoreCompileInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\home exercises\natural numbers\natural numbers\obj\Debug\netcoreapp3.1\natural numbers.dll
+C:\Users\Spectre\OneDrive\Bureau\home exercises\natural numbers\natural numbers\obj\Debug\netcoreapp3.1\natural numbers.pdb
+C:\Users\Spectre\OneDrive\Bureau\home exercises\natural numbers\natural numbers\obj\Debug\netcoreapp3.1\natural numbers.genruntimeconfig.cache
